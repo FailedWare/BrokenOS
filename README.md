@@ -1,11 +1,10 @@
-# BrokenOS 8
-Second version that should have never been made
+# BrokenOS 9
+Should have been eariler but this project but School sucks.
 
-This version removes AVAC (batch file) adds a Changelog and add a 'splashscreen'
-
-# Avac 2
-
-A god awful and now impossible to remove bloat that I thought would be a good idea for BrokenOS.
+-Added some stuff
+-Fixed Stuff
+-Removed stuff
+-***Avac is finally fucking gone***
 
 # Misc
 
