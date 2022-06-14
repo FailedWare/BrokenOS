@@ -1,10 +1,10 @@
 # BrokenOS 9
 Should have been eariler but this project but School sucks.
 
--Added some stuff
--Fixed Stuff
--Removed stuff
--***Avac is finally fucking gone***
+- Added some stuff
+- Fixed Stuff
+- Removed stuff
+- ***Avac is finally fucking gone***
 
 # Misc
 
