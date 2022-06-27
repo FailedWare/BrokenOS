@@ -169,7 +169,6 @@ color %clr%
 title BrokenOS / User: %user%
 echo.
 echo [ BrokenOS V.9 ]
-echo [ EXPIEMENTAL  ]
 echo.
 echo [ Welcome, %user%! ] 
 echo.
