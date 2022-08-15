@@ -1,4 +1,4 @@
-### ***DISCONTINUED***
+### ***DISCONTINUED - I some how actually broken the Dev version***
 
 # BrokenOS 9
 Should have been eariler but this project but School sucks.
